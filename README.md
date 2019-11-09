@@ -1,4 +1,4 @@
-# Supervised Learning
+# Supervised Learning (using Python)
 
 ## Project: Finding Donors for CharityML
 
